@@ -1,10 +1,10 @@
 export const Data = [
   {
     question: "നോമ്പുകാരൻ പ്രവേശിക്കുന്ന സ്വർഗ കവാടമേത് ?",
-    optionA: "Dark Army",
-    optionB: "Death Squad",
+    optionA: "ബാബുസ്സ്വദഖ",
+    optionB: "ബാബുല് സ്വലാത്ത് ",
     optionC: "റയ്യാൻ",
-    optionD: "Army of Darkness",
+    optionD: "ബാബുല്‍ ജിഹാദ്",
     answer: "c",
   },
   {
