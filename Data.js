@@ -189,9 +189,9 @@ export const Data = [
   {
     question: "സജദയുടെ ആദ്യ ആയത്ത് ഏത് സൂറത്തിലാണ് ?   ",
     optionA: "സൂറത്ത് അഹ്റാഫ്",
-    optionB: "Monster",
-    optionC: "Mistake",
-    optionD: "Mentor",
+    optionB: "സൂറത്ത് റഅ്ദ്  ",
+    optionC: "സൂറത്ത് നഹല്‍ ",
+    optionD: "സൂറത്ത് ഇസ്റാഅ്",
     answer: "a",
   },
   {
@@ -212,10 +212,10 @@ export const Data = [
   },
   {
     question: "നബിയുടെ വളർത്തുമ്മയുടെ പേരെന്ത് ?",
-    optionA: "His father was angry at him and pushed him",
+    optionA: " ",
     optionB: "ഉമ്മു അയ്മൻ",
-    optionC: "He saw Mr Robot and thought he wanted to hurt him",
-    optionD: "He tripped while trying to escape his mother",
+    optionC: " ",
+    optionD: " ",
     answer: "b",
   },
   {
@@ -223,7 +223,7 @@ export const Data = [
     optionA: "ഇബിൻ മുൽജിം",
     optionB: "ഇബിൻ അൽ സൗദ",
     optionC: "അബു ലുഹ് ലത്",
-    optionD: "USA lost its footing as a global superpower",
+    optionD: " ",
     answer: "c",
   },
   {
@@ -323,7 +323,7 @@ export const Data = [
     answer: "c",
   },
   {
-    question: "  സ്വർഗത്തിൽ എല്ലാ കവാടങ്ങളിലൂടെയും ക്ഷണിക്കപ്പെടുന്ന സ്വഹാബിയാര് ?",
+    question: "സ്വർഗത്തിൽ എല്ലാ കവാടങ്ങളിലൂടെയും ക്ഷണിക്കപ്പെടുന്ന സ്വഹാബിയാര് ?",
     optionA: "ഹംസ ( റ )",
     optionB: "അബൂബക്കർ സ്വിദ്ധീഖ് ( റ )",
     optionC: "ഉസ്മാൻ ബിൻ അഫാൻ ( റ )",
@@ -332,9 +332,9 @@ export const Data = [
   },
   {
     question: "ഖുർആനിൽ പറയപ്പെട്ട നരകത്തിലെ വൃക്ഷത്തിന്റെ പേര് എന്ത് ?",
-    optionA: "Elliot's father sexually molested him",
-    optionB: "Elliot's father never existed",
-    optionC: "Elliot's father beat him",
+    optionA: " ",
+    optionB: " ",
+    optionC: " ",
     optionD: "സഖൂo",
     answer: "d",
   },
@@ -342,8 +342,8 @@ export const Data = [
     question: "നബി ( സ ) യുടെ വഫാത്തിന് ശേഷം ജീവിച്ചിരുന്ന ഏക സന്താനം ആര് ?",
     optionA: "ഫാത്തിമ ( റ )",
     optionB: "ഇബ്രാഹീം ",
-    optionC: "Mistake",
-    optionD: "Mentor",
+    optionC: "ഖാസിം",
+    optionD: "അബ്ദുള്ള",
     answer: "a",
   },
   {
